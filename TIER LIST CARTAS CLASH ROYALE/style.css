@@ -40,9 +40,28 @@ p{
     margin: 10px;
     border-radius: 15px;
 }
-.brujanocturna{
+.lanzafuegos{
     background-color: #347bc2;
     padding: 10px;
     margin: 10px;
     border-radius: 15px;  
+}
+.princesa{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;  
+}
+.arqueras{
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+  text-shadow: 2px 2px 4px black;
+}
+.ftosarqueras{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; 
 }

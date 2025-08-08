@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://external-preview.redd.it/GB5Adyp5zzQcoI4Jpbgf8tKfJ6GxgHmT8NHgtcrpi3o.png?auto=webp&s=5061d0c1e9c2aa20f503796ed065bef4ddbd363f);
+    background-repeat: repeat;
+}
+
+h1{
+        font-family: "Honk", system-ui;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        font-size: 100px;
+}
+h2,p{
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 800px;
+    font-style: normal;
+    color: white;
+    font-size: 50px;
+}

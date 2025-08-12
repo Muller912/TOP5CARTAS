@@ -28,7 +28,13 @@ p{
     color: white;
     font-size: 50px;
 }
-.brujamadre{
+.lanzafuegos{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.brujanocturna{
     background-color: #347bc2;
     padding: 10px;
     margin: 10px;
@@ -40,18 +46,92 @@ p{
     margin: 10px;
     border-radius: 15px;
 }
-.lanzafuegos{
+.torredagas{
     background-color: #347bc2;
     padding: 10px;
     margin: 10px;
-    border-radius: 15px;  
+    border-radius: 15px;
+}
+.pillos{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.valquiria{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.emperatriz{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.curandera{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
 }
 .princesa{
     background-color: #347bc2;
     padding: 10px;
     margin: 10px;
-    border-radius: 15px;  
+    border-radius: 15px;
 }
+.reina{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.mosquetera{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.bandida{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.montacarneros{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.bandidalider{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.berserker{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.giganterunica{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.brujamadre{
+    background-color: #347bc2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
 .arqueras{
     background-color: yellow;
     padding: 10px;
